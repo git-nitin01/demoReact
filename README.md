@@ -1,6 +1,9 @@
 # React + Vite
 - A simple React app to fetch posts
 
+## Loader before posts
+<img width="1205" alt="Screenshot 2024-09-30 at 12 14 38 PM" src="https://github.com/user-attachments/assets/cf5088c5-d890-4859-9488-3fce70c4d5a8">
+
 ## Responsive
 
 ### Mobile
